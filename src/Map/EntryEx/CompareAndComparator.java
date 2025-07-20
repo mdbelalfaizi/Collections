@@ -10,6 +10,8 @@ import java.util.List;
 public class CompareAndComparator {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Program start");
 		Map<Integer,String> map=new HashMap<Integer,String>();          
 	      map.put(100,"Amit");    
 	      map.put(101,"Vijay");    
